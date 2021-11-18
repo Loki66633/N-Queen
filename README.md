@@ -1,3 +1,3 @@
 # N-Queen
-Genetski algoritam
+Genetic algorithm
 Solving the N-Queen problem using a genetic algorithm
